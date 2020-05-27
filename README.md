@@ -7,8 +7,8 @@ dealing with missing values, and more. You will create queries, aggregations, an
 
 Now you can:
 
-Work with Series and DataFrame objects
-Subset your data with .loc, .iloc, and the indexing operator
-Answer questions with queries, grouping, and aggregation
-Handle missing, invalid, and inconsistent data
-Visualize your dataset in a Jupyter notebook
+* Work with Series and DataFrame objects
+* Subset your data with .loc, .iloc, and the indexing operator
+* Answer questions with queries, grouping, and aggregation
+* Handle missing, invalid, and inconsistent data
+* Visualize your dataset in a Jupyter notebook
